@@ -1,0 +1,6 @@
+bin/
+obj/
+*.log
+*.user
+.vs/
+Boas_praticas.txt
