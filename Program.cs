@@ -13,20 +13,3 @@ class Program
     }
 }
 
-/*
-
-Funcionalidades:
-
-criar conta
-depositar
-sacar
-mostrar saldo
-
-Conceitos:
-
-classes
-encapsulamento
-métodos
-validação
-
-*/
